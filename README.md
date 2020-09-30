@@ -1,4 +1,4 @@
-# RPiNDVI
+## RPiNDVI
 Raspberry PI NDVI Code
 
 This is some simple example code using OpenCV on a Raspberry Pi with the Raspbery Pi NoIR camera to display live NDVI images.
@@ -10,6 +10,6 @@ This is some simple example code using OpenCV on a Raspberry Pi with the Raspber
 
 ## Usage:
 Simply run the `ndvi.py` script. This will display a window with four panes, showing the individual bands of the image plus
-a calculated NDVI image. This _should_ all run in real-time (or near-real-time), depending on the speed of your Pi.
+a calculated NDVI image. This should all run in real-time (or near-real-time), depending on the speed of your Pi.
 
 Press `ESC` to exit, or `s` to save a copy of the input image from the camera.
